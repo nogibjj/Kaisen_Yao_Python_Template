@@ -1,6 +1,6 @@
 # IDS706 First assignment by Kaisen Yao
 
-[![CI](https://github.com/nogibjj/Kaisen_Yao_Example_Mini1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Kaisen_Yao_Example_Mini1/actions/workflows/hello.yml)
+[![CI](https://github.com/nogibjj/Kaisen_Yao_Python_Template/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Kaisen_Yao_Python_Template/actions/workflows/hello.yml)
 
 This repository contains my work for the Create Python GitLab Template assignment in IDS 706. To use it, simply link it to a GitHub codespace and wait for the devcontainer to run the Makefile, which will execute the following tasks: install, format, lint, and test.
 
